@@ -1,0 +1,27 @@
+.nav-logo {
+    font-weight: extra-bold;
+    font-size: 34px;
+}
+
+.hero {
+    background-image: url('../assets/hero-bg.png');
+    height: 500px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 160px;
+    margin-bottom: 150px;
+}
+
+.hero-txt{
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.btn-hero {
+    text-align: center;
+}

@@ -1,0 +1,41 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+
+.default-color {
+    color: #4E47FF;
+}
+
+.btn-default {
+    background-color: #4E47FF;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 15px 12px;
+    width: 132px;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn-default:hover {
+    background-color: #101086;
+    transition: all 0.3s ease-in-out;
+    border-radius: 15px;
+    cursor: pointer;
+}
