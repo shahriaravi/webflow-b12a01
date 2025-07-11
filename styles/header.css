@@ -5,7 +5,6 @@
 
 .hero {
     background-image: url('../assets/hero-bg.png');
-    height: 500px;
 }
 
 .navbar {
@@ -13,7 +12,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px 160px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 
 .hero-txt{
@@ -24,4 +23,6 @@
 
 .btn-hero {
     text-align: center;
+    margin-bottom: 100px;
+    height: 300px;
 }
